@@ -4,11 +4,11 @@ import java.util.ListIterator;
 public class Main {
     public static void main(String[] args) {
         ArrayList<String> A = new ArrayList<>();
-        A.add("ка");
-        A.add("при");
-        A.add("очки");
-        A.add("цветы");
-        A.add("привет");
+        A.add("РєР°");
+        A.add("РїСЂРё");
+        A.add("РѕС‡РєРё");
+        A.add("С†РІРµС‚С‹");
+        A.add("РїСЂРёРІРµС‚");
         System.out.println(A);
 
         ArrayList<String> B = new ArrayList<>();
